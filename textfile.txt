@@ -3,3 +3,6 @@ added commit status
 
 git branch 
 creates a new git branch
+
+git add . 
+added git add .
