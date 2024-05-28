@@ -6,3 +6,6 @@ creates a new git branch
 
 git add . 
 added git add .
+
+git checkout
+swaps branches
